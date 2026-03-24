@@ -74,15 +74,6 @@ I'm a passionate **Flutter Developer** crafting beautiful, scalable cross-platfo
 
 ---
 
-## 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=MahmoudMagdy001&theme=flat&row=1&column=6" alt="GitHub Trophies" />
-
-</div>
-
----
 
 ## 📲 Connect With Me
 
