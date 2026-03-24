@@ -78,7 +78,7 @@ I'm a passionate **Flutter Developer** crafting beautiful, scalable cross-platfo
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=MahmoudMagdy001&theme=onedark&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=MahmoudMagdy001&theme=flat&row=1&column=6" alt="GitHub Trophies" />
 
 </div>
 
