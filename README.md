@@ -6,7 +6,7 @@
 <h1 align="center">✨ Hi there, I'm Mahmoud Magdy ✨</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=longlivedody&label=Profile%20views&color=0FFFC0&style=flat-square" alt="longlivedody" />
+  <img src="https://komarev.com/ghpvc/?username=MahmoudMagdy001&label=Profile%20views&color=0FFFC0&style=flat-square" alt="MahmoudMagdy001" />
   <img src="https://img.shields.io/badge/Flutter%20Developer-02569B?style=flat-square&logo=flutter" />
 </p>
 
@@ -64,11 +64,11 @@ I'm a passionate **Flutter Developer** crafting beautiful, scalable cross-platfo
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=longlivedody&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" />
+<img src="https://github-readme-stats.vercel.app/api?username=MahmoudMagdy001&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" />
 
-<img src="https://streak-stats.demolab.com?user=longlivedody&theme=github-dark&hide_border=true&background=0d1117" />
+<img src="https://streak-stats.demolab.com?user=MahmoudMagdy001&theme=github-dark&hide_border=true&background=0d1117" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=longlivedody&layout=compact&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MahmoudMagdy001&layout=compact&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" />
 
 </div>
 
@@ -78,7 +78,7 @@ I'm a passionate **Flutter Developer** crafting beautiful, scalable cross-platfo
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=longlivedody&theme=github_dark&margin-w=15&margin-h=15&no-frame=true" />
+<img src="https://github-profile-trophy.vercel.app/?username=MahmoudMagdy001&theme=github_dark&margin-w=15&margin-h=15&no-frame=true" />
 
 </div>
 
