@@ -54,84 +54,7 @@ I'm a passionate **Flutter Developer** crafting beautiful, scalable cross-platfo
 
 <div align="center">
 
-| Category | Skills |
-|----------|--------|
-| **Frontend** | Flutter • Dart • UI/UX Design • Responsive Design • Animation |
-| **State Management** | Provider • Riverpod • GetX • BLoC Pattern |
-| **Backend** | REST APIs • Firebase • Supabase • SQLite • Hive |
-| **Database** | Firebase Firestore • Realtime Database • Cloud Storage |
-| **DevTools** | Git • GitHub • VS Code • Android Studio • Figma |
-| **Methodologies** | Clean Architecture • SOLID Principles • Agile • Testing |
-
-</div>
-
----
-
-## ⭐ Featured Projects
-
-<div align="center">
-
-### 🚀 Showcase Your Best Work
-
-| Project | Tech Stack | Features |
-|---------|-----------|----------|
-| **🔗 [Project 1](#)** | Flutter, Firebase, Provider | Real-time, Push Notifications, Authentication |
-| **📱 [Project 2](#)** | Flutter, Supabase, Riverpod | Offline-First, Advanced UI, State Management |
-| **🎮 [Project 3](#)** | Flutter, Dart, Local Storage | High Performance, Custom Animations |
-
-<p>
-<a href="https://github.com/MahmoudMagdy001?tab=repositories" target="_blank">
-  <img src="https://img.shields.io/badge/View%20All%20Projects-0FFFC0?style=for-the-badge&logo=github&logoColor=black" />
-</a>
-</p>
-
-</div>
-
----
-
-## 💼 Professional Experience
-
-<div align="center">
-
-### Flutter Developer | Tech Company
-**Jan 2023 - Present**
-- 🎯 Developed 5+ cross-platform mobile applications with 100K+ downloads
-- 🔧 Implemented clean architecture & state management patterns
-- 🚀 Optimized app performance reducing load time by 40%
-- 👥 Collaborated with 10+ team members using Agile methodology
-
-### Junior Flutter Developer | Startup
-**Jun 2022 - Dec 2022**
-- 📱 Built responsive UI/UX designs
-- 🔌 Integrated REST APIs & Firebase
-- 🐛 Fixed critical bugs improving stability
-
-</div>
-
----
-
-## 🏆 Achievements & Certifications
-
-<div align="center">
-
-<p>
-<img src="https://img.shields.io/badge/⭐-Flutter%20Expert-0FFFC0?style=flat-square&logo=flutter" />
-<img src="https://img.shields.io/badge/⭐-Firebase%20Master-FFA500?style=flat-square&logo=firebase" />
-<img src="https://img.shields.io/badge/⭐-Open%20Source%20Contributor-28A745?style=flat-square&logo=github" />
-<img src="https://img.shields.io/badge/⭐-Clean%20Code%20Expert-FF6B6B?style=flat-square&logo=dart" />
-</p>
-
-### 📜 Certifications
-- ✅ Flutter Advanced Development (Udacity)
-- ✅ Firebase Cloud Firestore Mastery
-- ✅ SOLID Principles & Design Patterns
-- ✅ Mobile App Performance Optimization
-
-### 🎖️ Notable Achievements
-- 📊 1000+ GitHub Followers
-- 🌟 50+ Repositories
-- 💻 Contributing to open-source projects
-- 🎓 Mentoring junior developers
+**Mobile Development** • **UI/UX Design** • **State Management** • **API Integration** • **Database Design** • **Git & Version Control** • **Agile Methodology**
 
 </div>
 
@@ -141,50 +64,16 @@ I'm a passionate **Flutter Developer** crafting beautiful, scalable cross-platfo
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MahmoudMagdy001&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&text_color=0FFFC0" />
+<img src="https://github-readme-stats.vercel.app/api?username=MahmoudMagdy001&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" />
 
 <img src="https://streak-stats.demolab.com?user=MahmoudMagdy001&theme=github-dark&hide_border=true&background=0d1117" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MahmoudMagdy001&layout=donut&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&text_color=0FFFC0" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MahmoudMagdy001&layout=compact&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117" />
 
 </div>
 
 ---
 
-## 📝 Latest Blog Posts & Articles
-
-<div align="center">
-
-- 📖 [Building Scalable Flutter Apps with Clean Architecture](https://medium.com)
-- 📖 [Firebase Best Practices for Mobile Developers](https://medium.com)
-- 📖 [Mastering State Management in Flutter](https://medium.com)
-- 📖 [Performance Optimization Tips for Flutter](https://medium.com)
-
-<a href="https://medium.com/@mahmoudmagdy" target="_blank">
-  <img src="https://img.shields.io/badge/Read%20My%20Articles-000000?style=for-the-badge&logo=medium&logoColor=white" />
-</a>
-
-</div>
-
----
-
-## 🌐 Quick Links & Resources
-
-<div align="center">
-
-<a href="https://mahmoud-magdy-7f3rheg.gamma.site/" target="_blank">
-  <img src="https://img.shields.io/badge/🌍%20Portfolio-0FFFC0?style=for-the-badge&logo=google-chrome&logoColor=black" />
-</a>
-<a href="https://drive.google.com/file/d/11SKmra_jsJVHI9aBOgL2LuTdvLaz4AcI/view?usp=sharing" target="_blank">
-  <img src="https://img.shields.io/badge/📄%20Resume-FF6B6B?style=for-the-badge&logo=google-drive&logoColor=white" />
-</a>
-<a href="https://github.com/MahmoudMagdy001" target="_blank">
-  <img src="https://img.shields.io/badge/💻%20GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
----
 
 ## 📲 Connect With Me
 
@@ -209,12 +98,8 @@ I'm a passionate **Flutter Developer** crafting beautiful, scalable cross-platfo
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Thanks%20for%20visiting!;Let%27s%20build%20amazing%20apps;Together!&font=Fira%20Code&center=true&width=600&height=60&color=0FFFC0&vCenter=true&size=20&duration=4000&pause=1000" />
-
 ### 💬 Let's collaborate and build amazing apps together!
 
-⭐ **If you find my work interesting, consider giving my repositories a star!**
-
-<p><img src="https://media.giphy.com/media/dxn6SEP66AR352Au4c/giphy.gif" width="30"/> Happy Coding!</p>
+⭐ If you find my work interesting, consider giving my repositories a star!
 
 </div>
